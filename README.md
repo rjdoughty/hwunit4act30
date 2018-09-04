@@ -1,1 +1,4 @@
 # hwunit4act30
+For number 8 added command "Area" to the list.  This will allow user to enter an area code to find all employees that have the matching area code.   When prompted, enter area, and when prompted for area code, enter an area code to display the users in  with the matching area code.  I changed Jan's number in the directory to area code 223 to make sure it only works for the first 3 digits of the phone number.
+
+For number 5 (update) i tried to find a shorter way to enter code for the property value would pick up the inputed property value but had to complete with each string individually.  Searched but could not find the correct syntax.
